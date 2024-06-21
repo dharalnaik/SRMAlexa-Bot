@@ -64,4 +64,6 @@ Static Method search_wikipedia(query):
 
 ### Conclusion:
 
-SRM-Alexa showcases integration of voice control, web browsing capabilities, and Wikipedia search functionality in a user-friendly interface built with Kivy. It provides a practical example of how Python can be used to develop interactive and informative applications tailored to specific institutional needs, in this case, SRM Institute of Science and Technology. The project highlights the synergy between GUI development, web integration, and natural language processing capabilities in Python.
+SRM-Alexa showcases integration of voice control, web browsing capabilities, and Wikipedia search functionality in a user-friendly interface built with Kivy. 
+It provides a practical example of how Python can be used to develop interactive and informative applications tailored to specific institutional needs, in this case, SRM Institute of Science and Technology. 
+The project highlights the synergy between GUI development, web integration, and natural language processing capabilities in Python.
