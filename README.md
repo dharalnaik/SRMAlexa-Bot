@@ -47,8 +47,8 @@ SRM-Alexa is a voice-controlled assistant application developed using Python and
 - **Voice Command Listener (`listen_for_commands`):**
   - Continuous loop using `speech_recognition` to listen for voice commands via microphone.
   - Recognizes spoken commands, processes them using `Speech.process_command`, and handles exceptions for unknown commands or network errors.
-  - API Class in SRM-Alexa Project
--**Purpose:** The API class serves as an abstraction layer that encapsulates the functionality to interact with external services, specifically Wikipedia in this case. Its role is to facilitate the retrieval of information from Wikipedia based on user queries.
+  - API Class in SRM-Alexa Project.
+- **Purpose:** The API class serves as an abstraction layer that encapsulates the functionality to interact with external services, specifically Wikipedia in this case. Its role is to facilitate the retrieval of information from Wikipedia based on user queries.
 
 ### Components and Usage:
 
