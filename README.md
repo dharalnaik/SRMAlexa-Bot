@@ -65,9 +65,9 @@ Static Method search_wikipedia(query):
 ### Note:
 
 To get an .exe file of the project, please access the following google drive link: 
-**https://drive.google.com/drive/folders/15nWpOurUf_HzEix-I40v3ocbPPTeHOXO?usp=sharing**
 
 **https://drive.google.com/drive/folders/15nWpOurUf_HzEix-I40v3ocbPPTeHOXO?usp=sharing**
+
 
 ### Conclusion:
 
