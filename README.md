@@ -53,14 +53,14 @@ SRM-Alexa is a voice-controlled assistant application developed using Python and
 ### Components and Usage:
 
 Static Method search_wikipedia(query): 
-
 Purpose: This method is responsible for querying Wikipedia using the wikipediaapi library. 
--Implementation: 
-It sets a user-agent string to identify the source of the request (SRM-Alexa). 
-Utilizes wikipediaapi.Wikipedia to create a Wikipedia object for English language. 
-Retrieves the Wikipedia page corresponding to the user-provided query. 
-Checks if the page exists (page.exists()) and if so, returns the first 500 characters of the summary (page.summary[:500]). 
-If the page does not exist or there's an issue, it returns a default message indicating no information was found.
+
+- **Implementation:** 
+    - It sets a user-agent string to identify the source of the request (SRM-Alexa). 
+    - Utilizes wikipediaapi.Wikipedia to create a Wikipedia object for English language. 
+    - Retrieves the Wikipedia page corresponding to the user-provided query. 
+    - Checks if the page exists (page.exists()) and if so, returns the first 500 characters of the summary (page.summary[:500]). 
+    - If the page does not exist or there's an issue, it returns a default message indicating no information was found.
 
 ### Conclusion:
 
