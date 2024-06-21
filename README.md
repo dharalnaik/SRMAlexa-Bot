@@ -64,7 +64,7 @@ Static Method search_wikipedia(query):
 
 ### Links:
 
-1. To get an `.exe` file of the project, please access the following google drive link:
+1. To get an `.exe` file of the project, please access the following google drive link and download the `main.exe`:
    - **https://drive.google.com/file/d/1P4elokqIocsy2MI_TotU6tspYIdaT9fH/view?usp=drive_link**
 
 2. To get a video sample of the output of the project, access the following google drive link:
