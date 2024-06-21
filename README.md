@@ -62,11 +62,13 @@ Static Method search_wikipedia(query):
     - Checks if the page exists (page.exists()) and if so, returns the first 500 characters of the summary (page.summary[:500]). 
     - If the page does not exist or there's an issue, it returns a default message indicating no information was found.
 
-### Note:
+### Links:
 
-To get an `.exe` file of the project, please access the following google drive link:
+1. To get an `.exe` file of the project, please access the following google drive link:
+   - **https://drive.google.com/file/d/1P4elokqIocsy2MI_TotU6tspYIdaT9fH/view?usp=drive_link**
 
-https://drive.google.com/drive/folders/15nWpOurUf_HzEix-I40v3ocbPPTeHOXO?usp=sharing
+2. To get a video sample of the output of the project, access the following google drive link:
+   - **https://drive.google.com/file/d/1iT4Pp6NW2b0V3C9rdLJGpxjwC1jZOiyt/view?usp=drive_link**
 
 ### Conclusion:
 
