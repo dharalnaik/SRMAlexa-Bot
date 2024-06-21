@@ -12,7 +12,7 @@ SRM-Alexa is a voice-controlled assistant application developed using Python and
     - Commands trigger actions such as opening specific URLs related to SRMIST services.
 
 2. **Web Integration:**
-    -Direct access to SRMIST services like the Student Portal, official website, YouTube channel, hospital information, campus map, and contact details using
+   - Direct access to SRMIST services like the Student Portal, official website, YouTube channel, hospital information, campus map, and contact details using
    `webbrowser`.
    
 4. **Wikipedia Search:**
