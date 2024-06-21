@@ -62,6 +62,11 @@ Static Method search_wikipedia(query):
     - Checks if the page exists (page.exists()) and if so, returns the first 500 characters of the summary (page.summary[:500]). 
     - If the page does not exist or there's an issue, it returns a default message indicating no information was found.
 
+### Note:
+
+To get an .exe file of the project, please access the following google drive link:
+**https://drive.google.com/file/d/1P4elokqIocsy2MI_TotU6tspYIdaT9fH/view?usp=sharing**
+
 ### Conclusion:
 
 - SRM-Alexa showcases integration of voice control, web browsing capabilities, and Wikipedia search functionality in a user-friendly interface built with Kivy. 
