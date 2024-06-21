@@ -50,8 +50,10 @@ SRM-Alexa is a voice-controlled assistant application developed using Python and
   - API Class in SRM-Alexa Project
 -**Purpose:** The API class serves as an abstraction layer that encapsulates the functionality to interact with external services, specifically Wikipedia in this case. Its role is to facilitate the retrieval of information from Wikipedia based on user queries.
 
-### Components and Usage: 
+### Components and Usage:
+
 Static Method search_wikipedia(query): 
+
 Purpose: This method is responsible for querying Wikipedia using the wikipediaapi library. 
 -Implementation: 
 It sets a user-agent string to identify the source of the request (SRM-Alexa). 
